@@ -1,7 +1,6 @@
-Mountains in the Italy asd
+Mountains in the Italy
 =====================
 Italy highest peak is Monte Bianco.
-
 It lies at the border with France.
 
 1 New line.
@@ -9,5 +8,3 @@ It lies at the border with France.
 2 New line.
 
 3 New line. 
-=======
-It lies at the border with France. 
